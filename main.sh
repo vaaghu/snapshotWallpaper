@@ -31,5 +31,5 @@ else
   # echo "$(gsettings get org.gnome.desktop.background picture-uri)"
 fi
 
-sleep 10m
+sleep 15m
 $script_dir/main.sh
